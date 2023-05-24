@@ -1,7 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../../../common/injector.dart';
-import '../../../../authorize/domain/repository/auth_repository.dart';
+import '../../../../auth/domain/repository/auth_repository.dart';
 import 'splash_state.dart';
 
 final splashNotifier =

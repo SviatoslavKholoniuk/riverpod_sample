@@ -1,6 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_flutter/common/validators/email_validator.dart';
-import 'package:riverpod_flutter/features/authorize/domain/model/user.dart';
 
 import '../../../../../../common/common_failure_mapper.dart';
 import '../../../../../../common/injector.dart';

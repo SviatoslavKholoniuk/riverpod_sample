@@ -1,7 +1,7 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:riverpod_flutter/common/resources/colors.dart';
 
+import '../../../../common/resources/colors.dart';
 import '../../../../common/resources/text_styles.dart';
 
 @RoutePage()

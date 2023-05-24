@@ -1,8 +1,8 @@
 import 'package:get_it/get_it.dart';
-import 'package:riverpod_flutter/features/authorize/domain/di/auth_data_module.dart';
 
-import '../features/authorize/data/di/auth_data_module.dart';
-import '../features/authorize/presentation/di/auth_presentation_module.dart';
+import '../features/auth/data/di/auth_data_module.dart';
+import '../features/auth/domain/di/auth_data_module.dart';
+import '../features/auth/presentation/di/auth_presentation_module.dart';
 import '../features/splash/presentation/di/splash_presentation_module.dart';
 
 final GetIt getIt = GetIt.instance;

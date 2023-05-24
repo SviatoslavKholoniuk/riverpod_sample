@@ -3,12 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_flutter/common/validators/email_validator.dart';
 import 'package:riverpod_flutter/common/widgets/primary_button.dart';
-import 'package:riverpod_flutter/features/authorize/presentation/ui/login/provider/login_notifier.dart';
 import 'package:riverpod_flutter/routes/app_route.dart';
 
 import '../../../../../common/resources/colors.dart';
 import '../../../../../common/resources/input_styles.dart';
 import '../../../../../common/resources/text_styles.dart';
+import 'provider/login_notifier.dart';
 
 @RoutePage()
 class LoginScreen extends ConsumerWidget {

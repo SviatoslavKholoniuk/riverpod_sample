@@ -1,7 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:riverpod_flutter/features/authorize/domain/model/user.dart';
 
 import '../../../../../../common/utils/event.dart';
+import '../../../../domain/model/user.dart';
 
 part 'login_state.freezed.dart';
 

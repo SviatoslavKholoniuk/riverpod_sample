@@ -1,7 +1,7 @@
 import 'package:auto_route/auto_route.dart';
 
-import '../features/authorize/presentation/ui/login/login_screen.dart';
-import '../features/authorize/presentation/ui/signup/signup_screen.dart';
+import '../features/auth/presentation/ui/login/login_screen.dart';
+import '../features/auth/presentation/ui/signup/signup_screen.dart';
 import '../features/home/presentation/ui/home_screen.dart';
 import '../features/splash/presentation/ui/splash_screen.dart';
 
