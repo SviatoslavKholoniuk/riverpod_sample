@@ -1,0 +1,4 @@
+enum SplashState {
+  authenticated,
+  unauthenticated,
+}
